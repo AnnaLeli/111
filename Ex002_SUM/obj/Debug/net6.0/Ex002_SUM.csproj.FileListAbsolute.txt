@@ -1,0 +1,15 @@
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.AssemblyInfoInputs.cache
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.AssemblyInfo.cs
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\bin\Debug\net6.0\Ex002_SUM.exe
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\bin\Debug\net6.0\Ex002_SUM.deps.json
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\bin\Debug\net6.0\Ex002_SUM.runtimeconfig.json
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\bin\Debug\net6.0\Ex002_SUM.dll
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\bin\Debug\net6.0\Ex002_SUM.pdb
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.dll
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\refint\Ex002_SUM.dll
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.pdb
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\Ex002_SUM.genruntimeconfig.cache
+C:\Users\111\Desktop\Языки программирования\Ex002_SUM\obj\Debug\net6.0\ref\Ex002_SUM.dll
