@@ -1,0 +1,15 @@
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\bin\Debug\net6.0\Ex006_MAX.exe
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\bin\Debug\net6.0\Ex006_MAX.deps.json
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\bin\Debug\net6.0\Ex006_MAX.runtimeconfig.json
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\bin\Debug\net6.0\Ex006_MAX.dll
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\bin\Debug\net6.0\Ex006_MAX.pdb
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.AssemblyInfoInputs.cache
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.AssemblyInfo.cs
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.dll
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\refint\Ex006_MAX.dll
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.pdb
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\Ex006_MAX.genruntimeconfig.cache
+C:\Users\111\Desktop\Языки программирования\Ex006_MAX\obj\Debug\net6.0\ref\Ex006_MAX.dll
